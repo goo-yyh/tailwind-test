@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "umi": "^4.0.47",
+    "@umijs/plugins": "^4.0.47",
+    "tailwindcss": "^3"
+  }
+}
